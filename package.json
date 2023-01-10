@@ -1,5 +1,9 @@
 {
-  "name": "golden-reports",
+  "name": "@goldenreports/elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/golden-reports/elements.git"
+  },
   "version": "0.0.0",
   "license": "MIT",
   "author": "Mariano Santoro",
