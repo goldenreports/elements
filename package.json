@@ -1,7 +1,7 @@
 {
   "name": "golden-reports",
   "version": "0.0.0",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "author": "Mariano Santoro",
   "type": "module",
   "main": "dist/my-element.es.js",
